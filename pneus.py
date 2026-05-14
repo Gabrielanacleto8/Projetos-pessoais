@@ -6,8 +6,7 @@ import requests
 # =========================================================
 # WEBHOOK DO TEAMS
 # =========================================================
-webhook_url = "https://transmoor.webhook.office.com/webhookb2/d20fd534-d998-42ff-95f7-ef74e40c3bf9@92f65635-baa1-4ef8-b4fb-1999cfe1a3f0/IncomingWebhook/d9a1288a25bf4b21966929bc15fa3b4e/1318bf66-2800-49a8-b067-4385c6dbba11/V2y46rZLatn_5my0yM5HlJTVaD0gu9p103iASz7Mvz6zw1"
-
+webhook_url = "não exibido por segurança"
 # =========================================================
 # NOME DA PLANILHA
 # =========================================================
